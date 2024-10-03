@@ -1,6 +1,6 @@
 # Danish-Sorry.github.io
 I am sorrrry danish
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
